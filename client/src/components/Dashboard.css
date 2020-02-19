@@ -1,0 +1,15 @@
+:root {
+  --color-semantic-ui-blue: #2185d0;
+  --color-semantic-ui-blue-hover: #1678c2;
+  --color-semnatic-ui-grey: #1b1c1d;
+}
+
+.valign {
+  display: flex;
+  align-items: center;
+}
+
+.halign {
+  display: block !important;
+  margin: auto;
+}
